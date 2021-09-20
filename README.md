@@ -1,0 +1,1 @@
+# Azure_deployement_QNA
